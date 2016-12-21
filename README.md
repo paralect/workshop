@@ -1,3 +1,3 @@
 Weeks
 ---
-- [Week 1](weeks/week-1)
+- [Week 1 (2016-12-23)](weeks/week-1)
