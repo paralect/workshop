@@ -3,6 +3,7 @@ Week 1 (2016-12-23)
 
 ### Eve
 - http://witheve.com
+- https://witheve.github.io/assets/docs/SyntaxReference.pdf
 
 ### Svelte
 - https://svelte.technology
