@@ -5,9 +5,6 @@ Week 1 (2016-12-23)
 - http://witheve.com
 - https://witheve.github.io/assets/docs/SyntaxReference.pdf
 
-### Svelte
-- https://svelte.technology
-
 ### Angular 4
 - http://angularjs.blogspot.com.by/2016/12/ok-let-me-explain-its-going-to-be.html
 - http://www.infoworld.com/article/3150716/application-development/forget-angular-3-google-skips-straight-to-angular-4.html
