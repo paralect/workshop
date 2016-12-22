@@ -16,6 +16,9 @@ Week 1 (2016-12-23)
 - https://webpack.js.org
 - https://webpack.js.org/concepts/
 - http://webpack.github.io/docs/usage.html
+- https://js.foundation/
+- https://opencollective.com/webpack
+- https://webpack.js.org/guides/migrating/
 
 ### 100% ES6 in Safari 10
 - http://kangax.github.io/compat-table/es6/#safari10
