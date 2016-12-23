@@ -21,8 +21,10 @@ Week 1 (2016-12-23)
 - https://webpack.js.org/guides/migrating/
 
 ### Misc
+
 #### 100% ES6 in Safari 10
 - http://kangax.github.io/compat-table/es6/#safari10
+
 #### Cancelable promises withdrawn
 - https://github.com/tc39/proposal-cancelable-promises/commit/12a81f3d6202b9d2dadc2c13d30b7cfcc3e9a9b3
 - https://www.reddit.com/r/javascript/comments/5j3tn6/tc39_cancellable_promises_proposal_has_been/
