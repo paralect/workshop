@@ -5,6 +5,9 @@ Week 2 (2016-12-29)
 - http://stateofjs.com/
 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results
 - http://stackoverflow.com/research/developer-survey-2016
+- https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.wssfbon99
+- https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.j3i6ga23u
+- https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.sth7cdva4
 - http://bestof.js.org/tags/framework/trending/last-3-months
 - https://github.com/alibaba/weex
 
