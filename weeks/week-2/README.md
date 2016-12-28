@@ -5,6 +5,7 @@ Week 2 (2016-12-29)
 - http://stateofjs.com/
 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results
 - http://stackoverflow.com/research/developer-survey-2016
+- http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/
 - https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.wssfbon99
 - https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.b1l8qoerb
 - https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.j3i6ga23u
