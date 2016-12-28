@@ -5,6 +5,10 @@ Week 2 (2016-12-29)
 - http://stateofjs.com/
 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results
 - http://stackoverflow.com/research/developer-survey-2016
+
+- http://johnny-five.io/
+- https://github.com/ncsoft/Unreal.js
+- https://github.com/transcranial/keras-js
 - http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/
 - https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.wssfbon99
 - https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.b1l8qoerb
