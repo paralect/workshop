@@ -6,7 +6,7 @@ Week 2 (2016-12-29)
 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results
 - http://stackoverflow.com/research/developer-survey-2016
 
-&nbsp;
+<br>
 
 - http://johnny-five.io/
 - https://github.com/ncsoft/Unreal.js
