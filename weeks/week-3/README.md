@@ -10,7 +10,7 @@ Week 3 (2017-01-06)
 - http://stackoverflow.com/a/16393046/1800935
 - http://autobahn.ws/
 
-### Cancelable Promises Withdrawn
+### Cancelable promises withdrawn
 - https://www.reddit.com/r/javascript/comments/5j3tn6/tc39_cancellable_promises_proposal_has_been/
 - https://github.com/tc39/proposal-cancelable-promises/commit/12a81f3d6202b9d2dadc2c13d30b7cfcc3e9a9b3
 - https://docs.google.com/presentation/d/1V4vmC54gJkwAss1nfEt9ywc-QOVOfleRxD5qtpMpc8U/edit#slide=id.g112c357033_0_137
