@@ -27,6 +27,7 @@ Week 3 (2017-01-06)
 - http://semantic-ui.com/
 
 ### Misc
+- **[Front-Еnd дайджест #20: React VR, Svelte, итоги 2016 и наступающие тренды 2017](https://dou.ua/lenta/digests/frontend-digest-20/)**
 - https://github.com/search?utf8=%E2%9C%93&q=oops&type=Commits&ref=searchresults
 - https://www.polymer-project.org/1.0/blog/2016-12-21-polymer-2.0-update
 - https://medium.com/inferno-js/introducing-inferno-1-0-f3da5c4e773b#.tluq8mroe
