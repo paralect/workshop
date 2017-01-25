@@ -47,6 +47,11 @@ Week 6 (2017-01-27)
 - Exit `Ctrl + [` (`Esc`)
 - Activate line `V`
 - Delete `d`
+- Select everything inside enclosing area
+  * inside () `vi )`, ex. `(a, b, c)`
+  * inside [] `vi ]`, ex. `[0, 22]`
+  * inside "" `vi "`, ex. "scope"
+  * etc.
 
 ## Search
 - Activate `/`
@@ -90,6 +95,6 @@ Week 6 (2017-01-27)
 - Close window `Ctrl+w q`
 
 ## Links
-- [Vim cheat sheet](https://github.com/myaskevich/.files/blob/master/.vimrc)
-- [Interactive Vim tutorial: Vim Adventures](https://github.com/myaskevich/.files/blob/master/.vimrc)
+- [Vim cheat sheet](http://vimsheet.com/)
+- [Interactive Vim tutorial: Vim Adventures](http://vim-adventures.com/)
 - [My .vimrc (Maxim)](https://github.com/myaskevich/.files/blob/master/.vimrc)
