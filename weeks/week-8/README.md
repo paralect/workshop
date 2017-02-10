@@ -2,6 +2,7 @@ Week 8 (2017-02-10)
 ---
 
 ### CSS Grid Layout
+- https://github.com/meuwka/dev-talks-css-grid
 - http://slides.com/nataliyakaratkova/css-grid
 
 ### Computer Networks
