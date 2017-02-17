@@ -1,5 +1,6 @@
 Weeks
 ---
+- [Week 9 (2017-02-17)](weeks/week-9)
 - [Week 8 (2017-02-10)](weeks/week-8)
 - [Week 7 (2017-02-03)](weeks/week-7)
 - [Week 6 (2017-01-27)](weeks/week-6)
