@@ -2,6 +2,7 @@ Week 9 (2017-02-17)
 ---
 
 ### ES Modules
+- https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e
 - https://medium.com/@jasnell/an-update-on-es6-modules-in-node-js-42c958b890c#.hxqqpq8iu
 - https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview
 - https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/
