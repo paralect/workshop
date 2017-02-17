@@ -23,3 +23,6 @@ Week 9 (2017-02-17)
 ### NativeBase 2.0
 - https://github.com/GeekyAnts/NativeBase
 - https://blog.nativebase.io/launching-nativebase-2-0-4763e7e085d2#.e6pcq3kit
+
+### Computer networks: Physical layer
+- [Networks Physical Layer.pdf](http://s000.tinyupload.com/download.php?file_id=44811332852223556742&t=4481133285222355674244350)
