@@ -10,3 +10,7 @@ Week 10 (2017-02-24)
 - https://getuikit.com/
 - https://github.com/vuikit/vuikit
 - https://github.com/otissv/react-uikit-components
+
+### Fully automated development environment with docker-compose
+- [Article in english](https://blog.maqpie.com/2017/02/22/fully-automated-development-environment-with-docker-compose/)
+- [Article in russian](https://habrahabr.ru/post/322440/)
