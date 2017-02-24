@@ -14,3 +14,6 @@ Week 10 (2017-02-24)
 ### Fully automated development environment with docker-compose
 - [Article in english](https://blog.maqpie.com/2017/02/22/fully-automated-development-environment-with-docker-compose/)
 - [Article in russian](https://habrahabr.ru/post/322440/)
+
+### Computer Networks: Link layer
+- [Networks Link Layer.pdf](http://s000.tinyupload.com/download.php?file_id=84909608561178329580&t=8490960856117832958045392)
