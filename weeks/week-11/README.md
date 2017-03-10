@@ -20,3 +20,5 @@ Week 11 (2017-03-10)
 
 ### Misc
 - [New Aurelia release](http://blog.aurelia.io/2017/03/07/early-march-mega-release/)
+- https://wikileaks.org/ciav7p1/cms/page_1179773.html
+- http://ohshitgit.com/
