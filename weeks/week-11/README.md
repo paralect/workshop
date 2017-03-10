@@ -22,3 +22,6 @@ Week 11 (2017-03-10)
 - [New Aurelia release](http://blog.aurelia.io/2017/03/07/early-march-mega-release/)
 - https://wikileaks.org/ciav7p1/cms/page_1179773.html
 - http://ohshitgit.com/
+
+### Computer Networks: Network layer
+- [Networks Network Layer.pdf](http://s000.tinyupload.com/download.php?file_id=36852830095835919849&t=3685283009583591984906493)
