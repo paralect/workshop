@@ -1,5 +1,6 @@
 Weeks
 ---
+- [Week 12 (2017-03-17)](weeks/week-12)
 - [Week 11 (2017-03-10)](weeks/week-11)
 
 #### Weeks 1-10
