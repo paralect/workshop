@@ -1,5 +1,6 @@
 Weeks
 ---
+- [Week 17 (2017-04-21)](weeks/week-17)
 - [Week 16 (2017-04-14)](weeks/week-16)
 - [Week 15 (2017-04-07)](weeks/week-15)
 - [Week 14 (2017-03-31)](weeks/week-14)
