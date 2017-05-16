@@ -15,3 +15,6 @@ Week 16 (2017-04-14)
 ### React 15.5
 - https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html
 - https://github.com/facebook/react/issues/8854
+
+### Business Intelligence
+- [Presentation](https://goo.gl/AtBvq9)
