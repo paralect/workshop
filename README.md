@@ -1,5 +1,6 @@
 Weeks
 ---
+- [Week 22 (2017-05-26)](weeks/week-22)
 - [Week 21 (2017-05-19)](weeks/week-21)
 
 #### Weeks 11-20
