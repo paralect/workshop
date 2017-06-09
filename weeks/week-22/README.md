@@ -13,4 +13,3 @@ Week 22 (2017-05-26)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [Google Chrome won't be allowed on Windows 10 S](http://www.zdnet.com/article/google-chrome-wont-be-allowed-on-windows-10-s/)
 - [Bower deprecated](https://github.com/bower/bower/issues/2298)
-
