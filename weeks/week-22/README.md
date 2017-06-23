@@ -5,7 +5,7 @@ Week 22 (2017-05-26)
 - https://redom.js.org/
 
 ### The state of JavaScript modules
-- https://dev.to/kayis/react-native-lessons-learned
+- https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
 
 ### Misc
 - [What's New In DevTools (Chrome 60)](https://developers.google.com/web/updates/2017/05/devtools-release-notes)
