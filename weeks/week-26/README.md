@@ -14,3 +14,7 @@ Week 26 (2017-06-23)
 
 ### React Express
 - http://www.react.express/
+
+
+### 📽 How to Learn. Part 1
+- [Presentation](http://s000.tinyupload.com/download.php?file_id=74600963872689819936&t=7460096387268981993650602)
