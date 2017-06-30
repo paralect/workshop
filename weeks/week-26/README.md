@@ -18,3 +18,4 @@ Week 26 (2017-06-23)
 
 ### 📽 How to Learn. Part 1
 - [Presentation](http://s000.tinyupload.com/download.php?file_id=74600963872689819936&t=7460096387268981993650602)
+- [Inside the mind of a master procrastinator (Tim Urban's TED talk)](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
