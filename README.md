@@ -1,6 +1,7 @@
 Weeks
 ---
 
+- [Week 29 (2017-07-14)](weeks/week-29)
 - [Week 28 (2017-07-07)](weeks/week-28)
 - [Week 27 (2017-06-30)](weeks/week-27)
 - [Week 26 (2017-06-23)](weeks/week-26)
