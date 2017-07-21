@@ -9,7 +9,6 @@ Week 30 (2017-07-21)
 - https://github.com/facebook/react/issues/10191
 - https://github.com/markerikson/react-redux-links/blob/master/pros-cons-discussion.md#reacts-patents-license
 - https://news.ycombinator.com/item?id=12597488
-
 - https://choosealicense.com/
 - https://tldrlegal.com/
 
@@ -21,6 +20,7 @@ Week 30 (2017-07-21)
 - http://realfavicongenerator.net/
 - https://letsencrypt.org/
 - https://github.com/GoogleChrome/sw-precache
+- https://workboxjs.org/
 
 ### How to Learn. Part 3.
 - [Ссылка на презентацию](http://s000.tinyupload.com/download.php?file_id=22607326887180436057&t=2260732688718043605773536)
