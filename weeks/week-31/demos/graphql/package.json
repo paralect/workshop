@@ -1,0 +1,21 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "GraphQL demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "evenfrost <evenfrosty@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-koa": "^1.0.4",
+    "graphql": "^0.10.5",
+    "graphql-tools": "^1.1.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "^3.0.1",
+    "koa-router": "^7.2.1"
+  }
+}

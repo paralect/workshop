@@ -1,0 +1,16 @@
+{
+  "name": "chromeless-demo",
+  "version": "1.0.0",
+  "description": "Chromeless demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run chromeless",
+    "chromeless": "node index.js",
+    "chrome": "google-chrome --headless --disable-gpu --remote-debugging-port=9222"
+  },
+  "author": "evenfrost <evenfrosty@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chromeless": "^1.0.1"
+  }
+}
