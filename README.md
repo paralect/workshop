@@ -1,6 +1,7 @@
 Weeks
 ---
 
+- [Week 32 (2017-08-04)](weeks/week-32)
 - [Week 31 (2017-07-28)](weeks/week-31)
 
 #### Weeks 21-30
