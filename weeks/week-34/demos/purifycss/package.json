@@ -1,0 +1,20 @@
+{
+  "name": "purifycss-demo",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "brunch": "^2.10.10",
+    "purify-css": "^1.2.5"
+  },
+  "dependencies": {
+    "semantic-ui-css": "^2.2.12"
+  },
+  "scripts": {
+    "start": "brunch watch -s -P 5000",
+    "build": "brunch build",
+    "purify": "purifycss public/styles.css \"source/**/*.html\" --min --out public/styles.css"
+  }
+}
