@@ -1,5 +1,6 @@
 Week 34 (2017-08-18)
 ---
+![Image](https://pbs.twimg.com/media/DHYLjMCVwAAJ8AM.jpg)
 
 ### PurifyCSS
 - [GitHub repo](https://github.com/purifycss/purifycss)
