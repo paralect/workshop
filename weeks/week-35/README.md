@@ -7,6 +7,7 @@ Week 35 (2017-08-25)
 - [Facebook’s BSD+Patents License and how it affects your company or side-project](https://hackernoon.com/facebooks-bsd-patents-license-and-how-it-affects-you-66088e052845)
 - [Brain dump: notes and questions arising from “Facebook’s BSD-3 + strong patent retaliation” license](https://medium.com/@raulk/further-notes-and-questions-arising-from-facebooks-bsd-3-strong-patent-retaliation-license-c6386e8e1d60)
 - [Introduction to Preact — a smaller, faster React alternative](https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alternative-ad5532eb6d79)
+- [Building m.uber: Engineering A High-performance Web App For The Global Market](https://eng.uber.com/m-uber/)
 
 ### 418 I'm a Teapot
 - [Save Error Code 418](http://save418.com/)
