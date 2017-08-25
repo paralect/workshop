@@ -1,6 +1,5 @@
 Week 34 (2017-08-18)
 ---
-![Image](https://pbs.twimg.com/media/DHYLjMCVwAAJ8AM.jpg)
 
 ### PurifyCSS
 - [GitHub repo](https://github.com/purifycss/purifycss)
@@ -16,3 +15,5 @@ Week 34 (2017-08-18)
 
 ### Reverse engineering PopUnder: Part 2
 - [Reverse engineering PopUnder trick for Chrome 60](https://www.youtube.com/watch?v=PPzRcZLNCPY)
+
+![Image](https://pbs.twimg.com/media/DHYLjMCVwAAJ8AM.jpg)

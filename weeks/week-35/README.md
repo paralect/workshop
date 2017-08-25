@@ -1,6 +1,5 @@
 Week 35 (2017-08-25)
 ---
-![Image](https://i.redd.it/i4ioagw1cphz.png)
 
 ### Facebook says no to PATENTS removal
 - [Issue comment](https://github.com/facebook/react/issues/10191#issuecomment-323486580)
@@ -27,3 +26,5 @@ Week 35 (2017-08-25)
 
 ### Misc
 - [Edge: Non-working animations on SVG is 'by design'](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/8487752/)
+
+![Image](https://i.redd.it/i4ioagw1cphz.png)
