@@ -1,6 +1,7 @@
 Weeks
 ---
 
+- [Week 36 (2017-09-01)](weeks/week-36)
 - [Week 35 (2017-08-25)](weeks/week-35)
 - [Week 34 (2017-08-18)](weeks/week-34)
 - [Week 33 (2017-08-11)](weeks/week-33)
