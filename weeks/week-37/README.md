@@ -1,4 +1,4 @@
-Week 37 (2017-09-09)
+Week 37 (2017-09-08)
 ---
 
 ### Misc Chrome 61 features
