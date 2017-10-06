@@ -11,6 +11,7 @@ Week 40 (2017-10-06)
 ### New React Website
 - [Homepage](https://reactjs.org/)
 - [Gatsby](http://gatsbyjs.org/)
+- [Netlify CMS](https://www.netlifycms.org/)
 
 ### babel-plugin-sitrep
 - [babel-plugin-sitrep [GitHub]](https://github.com/tkh44/babel-plugin-sitrep)
