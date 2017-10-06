@@ -1,6 +1,7 @@
 Weeks
 ---
 
+- [Week 40 (2017-10-06)](weeks/week-40)
 - [Week 39 (2017-09-29)](weeks/week-39)
 - [Week 38 (2017-09-22)](weeks/week-38)
 - [Week 37 (2017-09-08)](weeks/week-37)

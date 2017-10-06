@@ -56,3 +56,7 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# lockfiles (to reduce repo size)
+yarn.lock
+package-lock.json
