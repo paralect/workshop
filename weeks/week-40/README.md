@@ -2,9 +2,9 @@ Week 40 (2017-10-06)
 ---
 
 ### Firefox Quantum
-- [It’s time to give Firefox another chance [TechCrunch]](https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/)
 - [Firefox Quantum [Homepage]](https://www.mozilla.org/en-US/firefox/quantum/)
 - [Firefox Quantum Developer Edition: the fastest Firefox ever with Photon UI and better tooling [Mozilla Hacks]](https://hacks.mozilla.org/2017/09/firefox-quantum-developer-edition-fastest-firefox-ever/)
+- [Project Quantum [Image]](https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2017/08/01.png)
 - [Start Your Engines – Firefox Quantum Lands in Beta [Mozilla Blog]](https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/)
 - [Inside a super fast CSS engine: Quantum CSS (aka Stylo) [Mozilla Hacks]](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 
