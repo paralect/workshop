@@ -1,6 +1,7 @@
 Weeks
 ---
 
+- [Week 42 (2017-10-20)](weeks/week-42)
 - [Week 41 (2017-10-13)](weeks/week-41)
 
 #### Weeks 31-40
