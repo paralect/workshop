@@ -14,6 +14,7 @@ Week 42 (2017-10-20)
 - [Grid Garden](https://cssgridgarden.com/)
 - [Learn CSS Grid](http://learncssgrid.com/)
 - [CSS Grid Stuff [Dev Talks Week 15]](https://github.com/paralect/talks/blob/597694ac87985473361235fcbb7edae9bda48262/weeks/week-15/README.md#css-grid-stuff)
+- [Grid by Example [Rachel Andrew]](https://gridbyexample.com/)
 
 ### Developer Cheat Sheets
 - [120+ Great Cheat Sheets for WordPress, Web Developers and Designers](https://www.codeinwp.com/blog/wordpress-cheat-sheets-web-development-design/)
