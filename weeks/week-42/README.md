@@ -1,23 +1,36 @@
-Week 42 (2017-10-20)
+Week 43 (2017-10-27)
 ---
 
-### Browser Makers Agree to Move Web Documentation to MDN
-- [Mozilla brings Microsoft, Google, the W3C, Samsung together to create cross-browser documentation on MDN [The Mozilla Blog]](https://blog.mozilla.org/blog/2017/10/18/mozilla-brings-microsoft-google-w3c-samsung-together-create-cross-browser-documentation-mdn/)
-- [Documenting the Web together [Microsoft Edge Dev Blog]](https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/)
-- [W3Fools](http://www.w3fools.com/)
-- [devdocs.io](http://devdocs.io/)
+### Fonts, Ligatures & Emojis
 
-### Edge now supports CSS Grid
-- [Can I use CSS grid support](http://caniuse.com/#feat=css-grid)
-- [An Introduction to CSS Grid Layout: Part 1 [Mozilla Hacks]](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
-- [CSS Grid Changes EVERYTHING - Amazing Presentation [YouTube video]](https://youtu.be/7kVeCqQCxlk)
-- [Grid Garden](https://cssgridgarden.com/)
-- [Learn CSS Grid](http://learncssgrid.com/)
-- [CSS Grid Stuff [Dev Talks Week 15]](https://github.com/paralect/talks/blob/597694ac87985473361235fcbb7edae9bda48262/weeks/week-15/README.md#css-grid-stuff)
-- [Grid by Example [Rachel Andrew]](https://gridbyexample.com/)
+#### Free Programming Fonts
+- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Insonsolata-g](http://leonardo-m.livejournal.com/77079.html)
+- [Ubuntu Mono](http://font.ubuntu.com/)
+- [Hack](https://github.com/source-foundry/Hack)
 
-### Developer Cheat Sheets
-- [120+ Great Cheat Sheets for WordPress, Web Developers and Designers](https://www.codeinwp.com/blog/wordpress-cheat-sheets-web-development-design/)
+#### Emojis
+- [EmojiOne](https://github.com/emojione/emojione)
+- [Noto Emoji](https://github.com/googlei18n/noto-emoji)
+- [Emojis in class names [Tweet]](https://twitter.com/addyosmani/status/702976873467408386)
+- [postcss-emoji](https://www.npmjs.com/package/postcss-emoji)
+- [Emojicode](http://www.emojicode.org/)
 
-##### [Cover](https://twitter.com/iamdevloper/status/879670791184551941)
+#### Misc
+- [Sans Bullshit Sans](http://www.sansbullshitsans.com/)
+
+### Awesome Cheatsheets
+- [devhints.io](https://devhints.io/)
+
+### Saying Goodbye to Firebug
+- [Saying Goodbye to Firebug [Mozilla Hacks]](https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/)
+
+### The VSCode Icon Journey
+- [The Icon Journey](https://code.visualstudio.com/blogs/2017/10/24/theicon)
+
+### No V8 commit can land if it breaks Node.js
+- [Keynote by @fhinkel tells everyone that V8 policy now is that no V8 commit can land if it breaks Node.js. 🎉 [Twitter]](https://mobile.twitter.com/trott/status/915624306750537728)
+
+##### [Cover](https://i.redd.it/gtgr5vep39tz.jpg)
 
