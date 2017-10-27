@@ -13,7 +13,7 @@ Week 43 (2017-10-27)
 #### Emojis
 - [EmojiOne](https://github.com/emojione/emojione)
 - [Noto Emoji](https://github.com/googlei18n/noto-emoji)
-- [Emojis in class names [Tweet]](https://twitter.com/addyosmani/status/702976873467408386)
+- [Glen Maddern Blog](https://glenmaddern.com/)
 - [postcss-emoji](https://www.npmjs.com/package/postcss-emoji)
 - [Emojicode](http://www.emojicode.org/)
 
