@@ -1,5 +1,6 @@
 Weeks
 ---
+- [Week 45 (2017-11-17)](weeks/week-45)
 - [Week 44 (2017-11-03)](weeks/week-44)
 - [Week 43 (2017-10-27)](weeks/week-43)
 - [Week 42 (2017-10-20)](weeks/week-42)
