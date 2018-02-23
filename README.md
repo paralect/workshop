@@ -1,6 +1,7 @@
 Weeks
 ---
 
+- [Week 57 (2018-02-23)](weeks/week-57)
 - [Week 56 (2018-02-16)](weeks/week-56)
 - [Week 55 (2018-02-09)](weeks/week-55)
 - [Week 54 (2018-02-02)](weeks/week-54)
