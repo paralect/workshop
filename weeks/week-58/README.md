@@ -13,7 +13,6 @@ Week 58 (2018-03-02)
 - [Lesser known CSS quirks & advanced tips [Medium]](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 
 ### Beyond React 16
-
 - [Sneak Peek: Beyond React 16 [React blog]](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
 - [Presentation on YouTube](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
 - [Using requestIdleCallback [Google Developers]](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
