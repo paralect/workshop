@@ -1,8 +1,7 @@
 Когнитивные искажения — [Andrew Polyansky](https://github.com/andrew-polyansky)
 ---
 
-WIP
--
+*WIP*
 
 Networks: Introduction — [Vladimir Panteleev](https://github.com/vpanteleev)
 ---
