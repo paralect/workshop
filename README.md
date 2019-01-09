@@ -1,4 +1,4 @@
 Paralect Workshop
 ===
 
-This is a repository for [Paralect Workshop meetups](workshop#paralect-workshop). For older dev talks stuff [go here](talks#paralect-dev-talks).
+- [Workshop 27.12.2018](workshop/2018-12-27)
